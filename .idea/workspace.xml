@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d05a5830-fc04-490d-b99d-898b3a60fe33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kHwroIi1hIkhQP4EYzDD69XMgW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="image_scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PokemonGenerator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_scraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.image_scraper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d05a5830-fc04-490d-b99d-898b3a60fe33" name="Default Changelist" comment="" />
+      <created>1605371025922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605371025922</updated>
+      <workItem from="1605371040760" duration="19030000" />
+      <workItem from="1606530582827" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="236" key="FileChooserDialogImpl" timestamp="1605373367675">
+      <screen x="160" y="0" width="1547" height="960" />
+    </state>
+    <state x="715" y="236" key="FileChooserDialogImpl/160.0.1547.960@160.0.1547.960" timestamp="1605373367675" />
+    <state width="1505" height="255" key="GridCell.Tab.0.bottom" timestamp="1605497201039">
+      <screen x="160" y="0" width="1547" height="960" />
+    </state>
+    <state width="1505" height="255" key="GridCell.Tab.0.bottom/160.0.1547.960@160.0.1547.960" timestamp="1605497201039" />
+    <state width="1505" height="255" key="GridCell.Tab.0.center" timestamp="1605497201039">
+      <screen x="160" y="0" width="1547" height="960" />
+    </state>
+    <state width="1505" height="255" key="GridCell.Tab.0.center/160.0.1547.960@160.0.1547.960" timestamp="1605497201039" />
+    <state width="1505" height="255" key="GridCell.Tab.0.left" timestamp="1605497201038">
+      <screen x="160" y="0" width="1547" height="960" />
+    </state>
+    <state width="1505" height="255" key="GridCell.Tab.0.left/160.0.1547.960@160.0.1547.960" timestamp="1605497201038" />
+    <state width="1505" height="255" key="GridCell.Tab.0.right" timestamp="1605497201039">
+      <screen x="160" y="0" width="1547" height="960" />
+    </state>
+    <state width="1505" height="255" key="GridCell.Tab.0.right/160.0.1547.960@160.0.1547.960" timestamp="1605497201039" />
+    <state x="443" y="123" key="SettingsEditor" timestamp="1605374564163">
+      <screen x="160" y="0" width="1547" height="960" />
+    </state>
+    <state x="443" y="123" key="SettingsEditor/160.0.1547.960@160.0.1547.960" timestamp="1605374564163" />
+    <state x="800" y="400" key="com.intellij.ide.util.TipDialog" timestamp="1606530584505">
+      <screen x="159" y="0" width="1889" height="1152" />
+    </state>
+    <state x="800" y="400" key="com.intellij.ide.util.TipDialog/159.0.1889.1152@159.0.1889.1152" timestamp="1606530584505" />
+    <state x="596" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1605404801573">
+      <screen x="160" y="0" width="1547" height="960" />
+    </state>
+    <state x="596" y="206" width="672" height="678" key="search.everywhere.popup/160.0.1547.960@160.0.1547.960" timestamp="1605404801573" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PokemonGenerator$image_scraper.coverage" NAME="image_scraper Coverage Results" MODIFIED="1605382157181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
